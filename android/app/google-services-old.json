@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849790999467",
+    "project_id": "spacefm-8abbf",
+    "storage_bucket": "spacefm-8abbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849790999467:android:dfc2e7c32e294058e350ee",
+        "android_client_info": {
+          "package_name": "com.star.space_fm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849790999467-9jtv64ktd80dg9cjtp4er101bhdr9b0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJOuYWry6kZXIzR6DIxQd8n6LFq5X35Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849790999467-9jtv64ktd80dg9cjtp4er101bhdr9b0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
